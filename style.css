@@ -220,3 +220,15 @@ h2{
     background-size: cover;
     background-position: center;
 }
+.area5{
+    background-image: url(img/bg4.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+footer{
+    background-color: #333;
+    color: #fff;
+    padding: 80px;
+    text-align: center;
+}
